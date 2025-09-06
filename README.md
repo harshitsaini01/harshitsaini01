@@ -1,22 +1,26 @@
 <div align="center">
-  
-<!-- Animated Header with Particle Effects -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-  Hi there! I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=500&color=FF6B6B&center=false&vCenter=true&width=200&height=50&lines=Harshit;Developer;Creator;Innovator" alt="Name Animation" />
-</h1>
+<!-- Advanced 3D Matrix Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000428,30:004e92,60:009ffd,100:00d2ff&height=300&section=header&text=HARSHIT%20SAINI&fontSize=50&fontColor=fff&animation=blinking&fontAlignY=55&desc=◉%20FULL%20STACK%20ARCHITECT%20◉%20DIGITAL%20INNOVATOR%20◉&descAlignY=75&descAlign=50&descSize=20"/>
+
+<!-- Holographic Name Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=1500&pause=800&color=00D2FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=◢◤+HARSHIT+SAINI+◥◣;⟨⟨+DIGITAL+ARCHITECT+⟩⟩;◆◇+CODE+VIRTUOSO+◇◆" alt="Holographic Name" />
+
+<!-- Neon Glowing Status -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=80&lines=⚡+SYSTEM+STATUS%3A+ONLINE+⚡;🔥+INNOVATION+MODE%3A+ACTIVATED+🔥;💎+PERFORMANCE%3A+OPTIMIZED+💎;🚀+READY+FOR+NEXT+CHALLENGE+🚀" alt="System Status" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+%7C+Building+Digital+Dreams;💡+Problem+Solver+%7C+Turning+Ideas+into+Reality;🎯+Tech+Enthusiast+%7C+Always+Learning+New+Things;🌟+Code+Craftsman+%7C+Creating+Beautiful+Solutions" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Badges -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white&labelColor=101010&color=7928CA">
-<img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=google-earth&logoColor=white&labelColor=101010&color=FF6B6B">
-<img src="https://img.shields.io/badge/Languages-10+-success?style=for-the-badge&logo=code-review&logoColor=white&labelColor=101010&color=4ECDC4">
+<!-- Advanced Holographic Badges -->
+<img src="https://img.shields.io/badge/⚡_FOCUS-FULL_STACK_ARCHITECT-00D2FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000428">
+<img src="https://img.shields.io/badge/🌍_LOCATION-INDIA_🇮🇳-FF6B35?style=for-the-badge&logo=earth&logoColor=white&labelColor=000428">
+<img src="https://img.shields.io/badge/💻_LANGUAGES-15+-00FF41?style=for-the-badge&logo=code&logoColor=white&labelColor=000428">
+<img src="https://img.shields.io/badge/🎯_STATUS-AVAILABLE_FOR_HIRE-FF0080?style=for-the-badge&logo=target&logoColor=white&labelColor=000428">
+
+<!-- Matrix Rain Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=12&duration=100&pause=50&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=01001000+01100001+01110010+01110011+01101000+01101001+01110100;████████████████████████████████████████████████;▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓" alt="Matrix Effect" />
 
 </div>
 
@@ -68,29 +72,55 @@ const harshit = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=500&lines=My+Arsenal+of+Technologies;Building+with+Modern+Tools;Crafting+Digital+Experiences" alt="Tech Stack Animation" />
-</div>
-
-<br/>
+## ⚡ TECH ARSENAL & DIGITAL WEAPONS
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
+<!-- Cyberpunk Tech Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2000&pause=800&color=00D2FF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=▰▰▰+TECHNOLOGICAL+MASTERY+▰▰▰;◤◢◤+DIGITAL+WEAPONRY+◥◣◥;⟦⟦⟦+SKILL+MATRIX+LOADED+⟧⟧⟧" alt="Tech Arsenal Header" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4"/>
+<!-- Advanced Skill Bars with Percentages -->
+<table>
+<tr><td>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,sass,bootstrap&theme=dark" />
+**🔥 CORE LANGUAGES**
+```
+JavaScript/TypeScript ████████████████████ 95%
+Python               ████████████████████ 90%
+Java                 ██████████████████   85%
+C++                  ████████████████     80%
+Go                   ██████████████       70%
+```
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,mysql,postgresql,redis&theme=dark" />
+</td><td>
 
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,figma,vscode,postman&theme=dark" />
+**⚡ FRAMEWORKS & LIBRARIES**
+```
+React/Next.js        ████████████████████ 95%
+Node.js/Express      ████████████████████ 90%
+Django/FastAPI       ██████████████████   85%
+Spring Boot          ████████████████     80%
+Vue.js/Nuxt.js       ██████████████       75%
+```
+
+</td></tr>
+</table>
+
+<!-- Animated Tech Icons with Glow Effect -->
+### 💻 PROGRAMMING LANGUAGES
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&theme=dark&perline=8" />
+
+### 🎨 FRONTEND TECHNOLOGIES
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte,tailwind,sass&theme=dark&perline=8" />
+
+### ⚙️ BACKEND & DATABASES
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,mongodb,postgresql,redis&theme=dark&perline=8" />
+
+### 🛠️ DEVOPS & TOOLS
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,vscode,figma&theme=dark&perline=8" />
+
+<!-- Real-time Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=00FF41&langs_count=10&custom_title=⚡%20CODE%20DISTRIBUTION"/>
 
 </div>
 
@@ -105,17 +135,23 @@ const harshit = {
 
 ---
 
-## 📊 GitHub Analytics
+## 🌌 DIGITAL ANALYTICS & PERFORMANCE METRICS
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=📈+My+Coding+Journey+in+Numbers;🔥+Powered+by+Passion+%26+Coffee;⚡+Building+the+Future+One+Commit+at+a+Time" alt="Analytics Animation" />
+
+<!-- Cyberpunk Analytics Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=◢◤+SYSTEM+PERFORMANCE+ANALYSIS+◥◣;⟨⟨+REAL-TIME+DATA+STREAMS+⟩⟩;▰▰▰+NEURAL+NETWORK+ACTIVE+▰▰▰" alt="Analytics Header" />
+
+<!-- Matrix-style Performance Indicators -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=1000&pause=500&color=00D2FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=┌─[PERFORMANCE_METRICS]─────────────────────┐;│+COMMITS%3A+∞+++CONTRIBUTIONS%3A+ACTIVE+│;│+STREAK%3A+LEGENDARY+++EFFICIENCY%3A+99.9%25+│;└───────────────────────────────────────────┘" alt="Performance Matrix" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Animated Snake Game -->
+<!-- Advanced Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/output/github-contribution-grid-snake.svg">
@@ -124,25 +160,28 @@ const harshit = {
 
 </div>
 
+<!-- Holographic Stats Grid -->
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&custom_title=⚡%20GitHub%20Statistics&include_all_commits=true"/>
+<table>
+<tr>
+<td align="center">
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00FF41&text_color=FFFFFF&custom_title=⚡%20NEURAL%20NETWORK%20STATUS&include_all_commits=true&ring_color=FF0080&fire_color=00FF41"/>
+</td>
+<td align="center">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=00FF41&langs_count=10&custom_title=🧠%20LANGUAGE%20MATRIX"/>
+</td>
+</tr>
+</table>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&langs_count=8"/>
+<!-- Advanced Streak Counter -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=synthwave-purple&hide_border=true&background=0D1117&stroke=00D2FF&ring=00FF41&fire=FF0080&currStreakLabel=FFFFFF&sideLabels=00D2FF&currStreakNum=00FF41&sideNums=FF0080"/>
 
-</div>
+<!-- Quantum Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=0D1117&color=00D2FF&line=00FF41&point=FF0080&area=true&hide_border=true&custom_title=🌌%20QUANTUM%20CONTRIBUTION%20FIELD"/>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF6B6B&sideNums=4ECDC4"/>
-
-</div>
-
-<div align="center">
-
-### 🏃‍♂️ Coding Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph"/>
+<!-- Real-time Coding Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsaini01&theme=synthwave"/>
 
 </div>
 
