@@ -29,37 +29,42 @@
 
 <img align="right" alt="Developer" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate **Full Stack Developer** with over 3 years of experience building scalable web applications and solving complex problems through code. I enjoy working with modern technologies and am always eager to learn and adapt to new challenges.
+I'm a passionate **Full Stack Developer** and **BCA graduate** with expertise in building diverse web applications from business solutions to algorithmic challenges. I specialize in the JavaScript/TypeScript ecosystem and enjoy creating practical solutions across different domains.
 
 ### What I Do
-- 🔧 **Full Stack Development** - Building end-to-end web applications
-- 💡 **Problem Solving** - Turning complex requirements into elegant solutions  
-- 🎨 **UI/UX Focus** - Creating intuitive and responsive user experiences
-- 📚 **Continuous Learning** - Staying updated with latest technologies and best practices
+- 🚀 **Full Stack Development** - Building complete web applications with React and Node.js
+- 💼 **Business Solutions** - Creating management systems and trading platforms
+- 🧩 **Algorithm Implementation** - Solving complex problems like Rubik's cube algorithms
+- 🎮 **Interactive Applications** - Developing engaging user experiences and tools
 
-### My Approach
+### My Tech Journey
 ```javascript
-const developer = {
+const harshitSaini = {
     name: "Harshit Saini",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    education: "Bachelor's in Computer Applications (BCA)",
+    specialization: "Full Stack JavaScript Development",
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "C", "C++"],
     frameworks: {
-        frontend: ["React", "Next.js", "Vue.js"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot"],
-        styling: ["Tailwind CSS", "Sass", "Material-UI"]
+        frontend: ["React", "Vite"],
+        backend: ["Node.js", "Express"],
+        styling: ["CSS3", "Modern CSS"]
     },
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    tools: ["Docker", "AWS", "Git", "VS Code"],
-    currentFocus: "Building scalable and maintainable applications",
-    philosophy: "Clean code is not written by following a set of rules. Clean code is written by someone who cares."
+    currentProjects: [
+        "Incentum - Business Management Platform",
+        "Crypto Trading Application", 
+        "Admission Management System",
+        "Personal Portfolio Website"
+    ],
+    achievements: ["Rubik's Cube Solver Algorithm", "Multi-domain Project Portfolio"],
+    philosophy: "Building practical solutions that make a real difference"
 };
 ```
 
-### Key Highlights
-- 💼 **3+ years** of professional development experience
-- 🚀 **50+ projects** completed across various domains
-- 🌟 Strong expertise in **React ecosystem** and **Node.js**
-- 🎯 Focus on **performance optimization** and **user experience**
+### Real Project Experience
+- 💼 **Business Applications** - Incentum main platform and admission management systems
+- 💰 **FinTech** - Cryptocurrency trading application with real-time features
+- 🎯 **Algorithms** - Complex problem-solving with Rubik's cube solver
+- 🌐 **Portfolio Development** - Modern React applications with Vite tooling
 
 ---
 
@@ -67,29 +72,23 @@ const developer = {
 
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=light" />
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,java,cpp&theme=light" />
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,bootstrap&theme=light" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,mysql,postgresql&theme=light" />
-
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,docker,aws,firebase,figma,vscode,postman,linux&theme=light" />
+### Development Tools
+<img src="https://skillicons.dev/icons?i=vite,git,vscode,npm,github&theme=light" />
 
 </div>
 
-### Proficiency Overview
+### My Real Tech Stack
 
-| Category | Technologies | Experience Level |
+| Category | Technologies | Project Experience |
 |----------|-------------|------------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, Python, Django | ⭐⭐⭐⭐⭐ |
-| **Database** | MongoDB, PostgreSQL, MySQL, Redis | ⭐⭐⭐⭐ |
-| **DevOps** | Docker, AWS, CI/CD, Linux | ⭐⭐⭐⭐ |
-| **Mobile** | React Native, Flutter | ⭐⭐⭐ |
+| **Frontend** | React, Vite, HTML5, CSS3 | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Express, JavaScript | ⭐⭐⭐⭐ |
+| **Languages** | JavaScript, TypeScript, Java, C/C++ | ⭐⭐⭐⭐ |
+| **Algorithms** | Problem Solving, Data Structures | ⭐⭐⭐⭐ |
+| **Tools** | Git, VS Code, Vite, npm | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
 
@@ -127,35 +126,47 @@ const developer = {
 
 ---
 
-## Current Focus
+## Featured Projects
 
-### What I'm Working On
-- 🔧 **Full Stack Applications** - Building scalable web solutions with modern tech stack
-- 📱 **Mobile Development** - Creating cross-platform applications with React Native
-- 🎨 **UI/UX Projects** - Designing intuitive and accessible user interfaces
-- 🚀 **Performance Optimization** - Improving application speed and user experience
+### 🚀 Current Active Projects
 
-### Learning & Growth
-- ☁️ **Cloud Architecture** - AWS, Docker, and containerization technologies
-- 🔄 **DevOps Practices** - CI/CD pipelines and automated deployment strategies
-- 🤖 **AI/ML Integration** - Incorporating machine learning into web applications
-- 📊 **Data Visualization** - Advanced charting and analytics dashboards
+<div align="center">
 
-### Open to Collaboration
-I'm always interested in working on innovative projects and contributing to open source. Feel free to reach out if you have interesting ideas or need a reliable development partner.
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|---------|
+| **[Incentum Main](https://github.com/harshitsaini01/incentum_main)** | Business management platform | JavaScript, Node.js | 🟢 Active |
+| **[Crypto Trading](https://github.com/harshitsaini01/crypto-trading)** | Cryptocurrency trading application | JavaScript, APIs | 🟢 Active |
+| **[Admission Management](https://github.com/harshitsaini01/admission-management)** | Educational institution management | TypeScript | 🟢 Active |
+| **[Portfolio Website](https://github.com/harshitsaini01/Portfolio)** | Personal portfolio with React | React, Vite | ✅ Complete |
+| **[Rubik's Cube Solver](https://github.com/harshitsaini01/rubiks-cube-solver)** | Algorithm implementation | TypeScript | ✅ Complete |
+| **[TypingHub](https://github.com/harshitsaini01/Typinghub)** | Typing practice application | HTML, CSS, JS | ✅ Complete |
+
+</div>
+
+### 🎯 What I'm Currently Building
+- 💼 **Business Solutions** - Expanding the Incentum platform with new features
+- 💰 **FinTech Applications** - Enhancing crypto trading tools and analytics
+- 🏫 **Education Tech** - Improving admission management workflows
+- 🧩 **Algorithm Projects** - Exploring more complex problem-solving challenges
+
+### 🌱 Learning & Growth
+- 🔧 **Advanced React Patterns** - Hooks, Context, and state management
+- 📊 **Real-time Data** - WebSockets and live trading data integration
+- 🎨 **Modern UI/UX** - Creating intuitive user experiences
+- 🚀 **Performance Optimization** - Making applications faster and more efficient
 
 ---
 
 ## Beyond Code
 
-When I'm not developing applications, I enjoy:
+As a **BCA graduate** and passionate developer, I believe in continuous growth:
 
-- 🎮 **Gaming** - Strategy games and problem-solving challenges
-- 🎵 **Music** - Listening to lo-fi and electronic music while coding
-- 📚 **Learning** - Exploring new technologies and development methodologies
-- ☕ **Coffee** - Fueling creativity with quality espresso
-- 🌍 **Travel** - Experiencing different cultures and perspectives
-- 📸 **Photography** - Capturing moments and practicing composition
+- 🎓 **Education** - Bachelor's in Computer Applications, always learning new concepts
+- 🧩 **Problem Solving** - Love tackling algorithmic challenges like Rubik's cube solutions
+- 🎮 **Gaming** - Strategy games that enhance logical thinking
+- 🎵 **Music** - Lo-fi beats while coding for better focus
+- 📚 **Tech Reading** - Staying updated with JavaScript/React ecosystem
+- ☕ **Coffee** - Essential fuel for late-night coding sessions
 
 ---
 
