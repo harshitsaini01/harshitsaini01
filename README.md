@@ -161,7 +161,7 @@ const harshitSaini = {
 
 As a **BCA graduate** and passionate developer, I believe in continuous growth:
 
-- 🎓 **Education** - Bachelor's in Computer Applications, always learning new concepts
+- 🎓 **Education** - Bachelor's in Computer Applications, always learning new concepts.
 - 🧩 **Problem Solving** - Love tackling algorithmic challenges like Rubik's cube solutions
 - 🎮 **Gaming** - Strategy games that enhance logical thinking
 - 🎵 **Music** - Lo-fi beats while coding for better focus
