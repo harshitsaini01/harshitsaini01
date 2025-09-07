@@ -203,6 +203,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <br/><br/>
 
-**Thanks for visiting! Let's build something amazing together.** 
+**Thanks for visiting! Let's build something amazing together.** 🚀
 
 </div>
