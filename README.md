@@ -189,7 +189,7 @@ As a **BCA graduate** and passionate developer, I believe in continuous growth:
 
 </div>
 
-I'm always open to discussing new opportunities, collaborating on interesting projects, or simply having a conversation about technology.
+I'm always open to discussing new opportunities, collaborating on interesting projects, or simply having a conversation about technology. Feel free to reach out.
 
 ---
 
