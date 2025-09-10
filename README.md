@@ -12,12 +12,6 @@
 
 <br/>
 
-<!-- Professional Badges -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-667eea?style=flat-square&logo=code&logoColor=white">
-<img src="https://img.shields.io/badge/Location-India-764ba2?style=flat-square&logo=map-pin&logoColor=white">
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=flat-square&logo=calendar&logoColor=white">
-<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square&logo=briefcase&logoColor=white">
-
 </div>
 
 ---
