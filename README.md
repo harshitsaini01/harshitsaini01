@@ -22,49 +22,59 @@
 
 ---
 
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
 ## About Me
 
 <img align="right" alt="Developer" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate **Full Stack Developer** and **BCA graduate** with expertise in building diverse web applications from business solutions to algorithmic challenges. I specialize in the JavaScript/TypeScript ecosystem and enjoy creating practical solutions across different domains.
+I'm a passionate **Full Stack Developer** with expertise in building diverse web applications that span across multiple domains - from business management platforms to cryptocurrency trading systems. I specialize in the JavaScript/TypeScript ecosystem and have a proven track record of delivering practical, scalable solutions that solve real-world problems.
+
+My development journey has been driven by curiosity and a desire to create meaningful applications. I enjoy tackling complex challenges, whether it's implementing sophisticated algorithms like Rubik's cube solvers or building real-time trading platforms that handle live market data.
 
 ### What I Do
-- 🚀 **Full Stack Development** - Building complete web applications with React and Node.js
-- 💼 **Business Solutions** - Creating management systems and trading platforms
-- 🧩 **Algorithm Implementation** - Solving complex problems like Rubik's cube algorithms
-- 🎮 **Interactive Applications** - Developing engaging user experiences and tools
+- 🚀 **Full Stack Development** - Architecting and building complete web applications using modern React and Node.js
+- 💼 **Business Solutions** - Creating comprehensive management systems that streamline operations and improve efficiency
+- 🧩 **Algorithm Implementation** - Solving complex computational problems and implementing efficient algorithms
+- 🎮 **Interactive Applications** - Developing engaging, user-friendly interfaces and interactive tools
+- 💰 **FinTech Development** - Building cryptocurrency trading platforms with real-time data processing
+- 🏫 **EdTech Solutions** - Creating educational management systems and learning tools
 
-### My Tech Journey
+### My Development Philosophy
 ```javascript
 const harshitSaini = {
     name: "Harshit Saini",
-    education: "Bachelor's in Computer Applications (BCA)",
-    specialization: "Full Stack JavaScript Development",
+    role: "Full Stack Developer",
+    specialization: "JavaScript/TypeScript Ecosystem",
     languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "C", "C++"],
-    frameworks: {
-        frontend: ["React", "Vite"],
-        backend: ["Node.js", "Express"],
-        styling: ["CSS3", "Modern CSS"]
+    expertise: {
+        frontend: ["React", "Vite", "Modern CSS", "Responsive Design"],
+        backend: ["Node.js", "Express", "API Development", "Database Design"],
+        specialties: ["Algorithm Implementation", "Real-time Applications", "Business Logic"]
     },
     currentProjects: [
-        "Incentum - Business Management Platform",
-        "Crypto Trading Application", 
-        "Admission Management System",
-        "Personal Portfolio Website"
+        "Incentum - Comprehensive Business Management Platform",
+        "Advanced Crypto Trading Application with Live Data", 
+        "Educational Admission Management System",
+        "Modern Portfolio Website with Interactive Features"
     ],
-    achievements: ["Rubik's Cube Solver Algorithm", "Multi-domain Project Portfolio"],
-    philosophy: "Building practical solutions that make a real difference"
+    achievements: [
+        "Rubik's Cube Solver Algorithm Implementation",
+        "Multi-domain Project Portfolio",
+        "Real-time Trading Platform Development",
+        "Complex Business Logic Implementation"
+    ],
+    philosophy: "Code should be clean, efficient, and solve real problems",
+    approach: "User-first design with performance optimization"
 };
 ```
 
-### Real Project Experience
-- 💼 **Business Applications** - Incentum main platform and admission management systems
-- 💰 **FinTech** - Cryptocurrency trading application with real-time features
-- 🎯 **Algorithms** - Complex problem-solving with Rubik's cube solver
-- 🌐 **Portfolio Development** - Modern React applications with Vite tooling
+### Core Strengths & Experience
+- 💼 **Enterprise Applications** - Built scalable business management platforms handling complex workflows
+- 💰 **Financial Technology** - Developed cryptocurrency trading applications with real-time market data integration
+- 🎯 **Algorithm Design** - Implemented complex problem-solving algorithms including geometric puzzle solvers
+- 🌐 **Modern Web Development** - Created responsive, performant applications using cutting-edge technologies
+- 🔧 **System Architecture** - Designed and implemented full-stack solutions from database to user interface
+- 📊 **Data Management** - Experience with both SQL and NoSQL databases for different application needs
 
 ---
 
