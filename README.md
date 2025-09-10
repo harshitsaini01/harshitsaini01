@@ -3,12 +3,13 @@
 <!-- Professional Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Saini&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hello, I'm Harshit Saini
-</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Technology+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+
+<h3 align="center" style="color: #667eea; margin: 20px 0;">
+  Full Stack Developer • Problem Solver • Technology Enthusiast
+</h3>
+
+
 
 <br/>
 
@@ -75,27 +76,37 @@ const harshitSaini = {
 ## 💻 Technical Skills
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,vite&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,vite&theme=light&perline=6" />
+</p>
 
 Building modern, responsive web applications with **React**, **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, and **Vite** for optimal performance and user experience.
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light&perline=3" />
+</p>
 
 Developing robust server-side applications using **Node.js**, **Express.js**, and **Java** to create scalable APIs and business logic.
 
 ### 🗄️ Database & Storage
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light&perline=2" />
+</p>
 
 Managing data efficiently with **MongoDB** for NoSQL solutions and **MySQL** for relational database requirements.
 
 ### 🛠️ Development Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=light&perline=5" />
+</p>
 
 Streamlined development process using **Git**, **GitHub**, **VS Code**, **npm**, and **Postman** for version control, collaboration, and API testing.
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=light&perline=5" />
+</p>
 
 Proficient in **JavaScript**, **TypeScript** for web development, **Java** for enterprise applications, and **C/C++** for system programming and algorithms.
 
