@@ -68,46 +68,38 @@ const harshitSaini = {
 
 ---
 
-## Technical Skills
-
-<div align="center">
+## 💻 Technical Skills
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,vite&theme=light" />
 
-**React • HTML5 • CSS3 • JavaScript • TypeScript • Vite**
+Building modern, responsive web applications with **React**, **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, and **Vite** for optimal performance and user experience.
 
 ### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light" />
 
-**Node.js • Express.js • Java**
+Developing robust server-side applications using **Node.js**, **Express.js**, and **Java** to create scalable APIs and business logic.
 
 ### 🗄️ Database & Storage
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
 
-**MongoDB • MySQL**
+Managing data efficiently with **MongoDB** for NoSQL solutions and **MySQL** for relational database requirements.
 
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=light" />
+### 🛠️ Development Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=light" />
 
-**Git • GitHub • VS Code • npm**
+Streamlined development process using **Git**, **GitHub**, **VS Code**, **npm**, and **Postman** for version control, collaboration, and API testing.
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=light" />
 
-**JavaScript • TypeScript • Java • C++ • C**
+Proficient in **JavaScript**, **TypeScript** for web development, **Java** for enterprise applications, and **C/C++** for system programming and algorithms.
 
-</div>
-
-### Proficiency Overview
-
-| Category | Technologies | Experience Level |
-|----------|-------------|------------------|
-| **Frontend** | React, Vite, HTML5, CSS3, JavaScript | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, JavaScript | ⭐⭐⭐⭐ |
-| **Languages** | JavaScript, TypeScript, Java, C/C++ | ⭐⭐⭐⭐ |
-| **Algorithms** | Problem Solving, Data Structures | ⭐⭐⭐⭐ |
-| **Tools** | Git, VS Code, Vite, npm | ⭐⭐⭐⭐⭐ |
+### 🚀 Specialized Skills
+- **Algorithm Design** - Complex problem solving (Rubik's Cube Solver)
+- **Real-time Applications** - Cryptocurrency trading platforms
+- **Business Solutions** - Management systems and enterprise applications
+- **Modern Tooling** - Vite, React ecosystem, modern JavaScript
 
 <div align="center">
 
