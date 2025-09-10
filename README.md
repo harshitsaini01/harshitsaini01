@@ -72,15 +72,42 @@ const harshitSaini = {
 
 <div align="center">
 
-### Core Technologies
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,java,cpp&theme=light" />
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,vite&theme=light" />
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=vite,git,vscode,npm,github&theme=light" />
+**React • HTML5 • CSS3 • JavaScript • TypeScript • Vite**
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light" />
+
+**Node.js • Express.js • Java**
+
+### 🗄️ Database & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+
+**MongoDB • MySQL**
+
+### 🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=light" />
+
+**Git • GitHub • VS Code • npm**
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=light" />
+
+**JavaScript • TypeScript • Java • C++ • C**
 
 </div>
 
+### Proficiency Overview
 
+| Category | Technologies | Experience Level |
+|----------|-------------|------------------|
+| **Frontend** | React, Vite, HTML5, CSS3, JavaScript | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Express, JavaScript | ⭐⭐⭐⭐ |
+| **Languages** | JavaScript, TypeScript, Java, C/C++ | ⭐⭐⭐⭐ |
+| **Algorithms** | Problem Solving, Data Structures | ⭐⭐⭐⭐ |
+| **Tools** | Git, VS Code, Vite, npm | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
 
