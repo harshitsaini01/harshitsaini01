@@ -80,15 +80,7 @@ const harshitSaini = {
 
 </div>
 
-### My Real Tech Stack
 
-| Category | Technologies | Project Experience |
-|----------|-------------|------------------|
-| **Frontend** | React, Vite, HTML5, CSS3 | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, JavaScript | ⭐⭐⭐⭐ |
-| **Languages** | JavaScript, TypeScript, Java, C/C++ | ⭐⭐⭐⭐ |
-| **Algorithms** | Problem Solving, Data Structures | ⭐⭐⭐⭐ |
-| **Tools** | Git, VS Code, Vite, npm | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
 
