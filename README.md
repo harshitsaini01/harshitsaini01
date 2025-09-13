@@ -65,7 +65,7 @@ const harshitSaini = {
 
 ### Core Strengths & Experience
 - 💼 **Enterprise Applications** - Built scalable business management platforms handling complex workflows
-- 💰 **Financial Technology** - Developed cryptocurrency trading applications with real-time market data integration.
+- 💰 **Financial Technology** - Developed cryptocurrency trading applications with real-time market data integration
 - 🎯 **Algorithm Design** - Implemented complex problem-solving algorithms including geometric puzzle solvers
 - 🌐 **Modern Web Development** - Created responsive, performant applications using cutting-edge technologies
 - 🔧 **System Architecture** - Designed and implemented full-stack solutions from database to user interface
