@@ -69,7 +69,7 @@ const harshitSaini = {
 - 🎯 **Algorithm Design** - Implemented complex problem-solving algorithms including geometric puzzle solvers
 - 🌐 **Modern Web Development** - Created responsive, performant applications using cutting-edge technologies
 - 🔧 **System Architecture** - Designed and implemented full-stack solutions from database to user interface
-- 📊 **Data Management** - Experience with both SQL and NoSQL databases for different application needs
+- 📊 **Data Management** - Experience with both SQL and NoSQL databases for different application needs.
 
 ---
 
