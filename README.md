@@ -94,7 +94,7 @@ Developing robust server-side applications using **Node.js**, **Express.js**, an
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light&perline=2" />
 </p>
 
-Managing data efficiently with **MongoDB** for NoSQL solutions and **MySQL** for relational database requirements..
+Managing data efficiently with **MongoDB** for NoSQL solutions and **MySQL** for relational database requirements.
 
 ### 🛠️ Development Tools & Workflow
 <p>
