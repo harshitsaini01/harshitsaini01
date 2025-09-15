@@ -87,7 +87,7 @@ Building modern, responsive web applications with **React**, **HTML5**, **CSS3**
 <img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light&perline=3" />
 </p>
 
-Developing robust server-side applications using **Node.js**, **Express.js**, and **Java** to create scalable APIs and business logic.
+Developing robust server-side applications using **Node.js**, **Express.js**, and **Java** to create scalable APIs and business logic
 
 ### 🗄️ Database & Storage
 <p>
