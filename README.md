@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Profile Metrics -->
-<p>
-  <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/harshitsaini01?style=social" alt="GitHub Followers"/>
-</p>
-
 <!-- Professional Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Saini&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 
+
+
+<!-- Profile Metrics -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/harshitsaini01?style=social" alt="GitHub Followers"/>
+</p>
 
 
 <h3 align="center" style="color: #667eea; margin: 20px 0;">
@@ -231,7 +233,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
-<img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
+
 
 <br/><br/>
 
