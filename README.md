@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- Profile Metrics -->
+<p>
+  <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/harshitsaini01?style=social" alt="GitHub Followers"/>
+</p>
+
 <!-- Professional Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Saini&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 
