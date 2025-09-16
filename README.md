@@ -16,11 +16,7 @@
 <h3 align="center" style="color: #667eea; margin: 20px 0;">
   Full Stack Developer • Problem Solver • Technology Enthusiast
 </h3>
-
-
-
 <br/>
-
 </div>
 
 ---
