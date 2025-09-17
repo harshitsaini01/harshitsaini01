@@ -42,7 +42,7 @@ My development journey has been driven by curiosity and a desire to create meani
 ```javascript
 const harshitSaini = {
     name: "Harshit Saini",
-    role: "Full Stack ",
+    role: "Full Stack Developer",
     specialization: "JavaScript/TypeScript Ecosystem",
     languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++"],
     expertise: {
