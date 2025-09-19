@@ -44,7 +44,7 @@ const harshitSaini = {
     name: "Harshit Saini",
     role: "Full Stack Developer",
     specialization: "JavaScript/TypeScript Ecosystem",
-    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++"],
+    languages: ["JavaScript", "TypeScript", "HTML", "", "C", "C++"],
     expertise: {
         frontend: ["React", "Vite", "Modern CSS", "Responsive Design"],
         backend: ["Node.js", "Express", "API Development", "Database Design"],
