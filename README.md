@@ -46,7 +46,7 @@ const harshitSaini = {
     specialization: "JavaScript/TypeScript Ecosystem",
     languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++"],
     expertise: {
-        frontend: ["React", "Vite", "Modern CSS", " Design"],
+        frontend: ["React", "Vite", "Modern CSS", "Responsive Design"],
         backend: ["Node.js", "Express", "API Development", "Database Design"],
         specialties: ["Algorithm Implementation", "Real-time Applications", "Business Logic"]
     },
