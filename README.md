@@ -1,330 +1,238 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a1a2e,60:16213e,100:0f3460&height=280&section=header&text=Harshit%20Saini&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Node.js&descAlignY=55&descAlign=50&descSize=18&stroke=00d4ff&strokeWidth=2"/>
+<!-- Professional Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Saini&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;From+algorithms+to+production+systems+%F0%9F%94%A5;Open+to+exciting+opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
-</a>
 
+
+<!-- Profile Metrics -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/harshitsaini01?style=social" alt="GitHub Followers"/>
+</p>
+
+
+<h3 align="center" style="color: #667eea; margin: 20px 0;">
+  Full Stack Developer • Problem Solver • Technology Enthusiast
+</h3>
 <br/>
-
-<!-- PROFILE BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile+Views&color=0f3460&style=for-the-badge&logo=eye&logoColor=00d4ff" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/harshitsaini01?style=for-the-badge&color=0f3460&labelColor=1a1a2e&logo=github&logoColor=00d4ff&label=Stars" alt="Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/harshitsaini01?style=for-the-badge&color=0f3460&labelColor=1a1a2e&logo=github&logoColor=00d4ff&label=Followers" alt="Followers"/>
-</p>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com/in/harshitsaini01">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/harshitsaini01">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:harshit@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/harshitsaini01">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building production-grade web applications across diverse domains — from enterprise business management platforms to real-time cryptocurrency trading systems.
+<img align="right" alt="Developer" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-With a solid foundation in the **JavaScript/TypeScript ecosystem**, I architect and ship complete products: clean, performant frontends in React, robust REST APIs in Node.js/Express, and efficient data modeling with MongoDB and MySQL.
+I'm a passionate **Full Stack Developer** with expertise in building diverse web applications that span across multiple domains - from business management platforms to cryptocurrency trading systems. I specialize in the JavaScript/TypeScript ecosystem and have a proven track record of delivering practical, scalable solutions that solve real-world problems.
 
-I thrive on solving hard problems — whether it's implementing complex algorithms like a Rubik's cube solver, designing real-time trading data pipelines, or building multi-module business platforms from scratch.
+My development journey has been driven by curiosity and a desire to create meaningful applications. I enjoy tackling complex challenges, whether it's implementing sophisticated algorithms like Rubik's cube solvers or building real-time trading platforms that handle live market data.
 
-- 🎓 **Education:** Bachelor of Computer Applications (BCA)
-- 📍 **Location:** India 🇮🇳
-- 💼 **Status:** Open to full-time & freelance opportunities
-- 🔭 **Currently Building:** Incentum Business Platform + Crypto Trading App
-- 🌱 **Currently Learning:** Advanced React Patterns, System Design, WebSockets
-- ⚡ **Fun Fact:** I implemented a Rubik's Cube solver algorithm from scratch!
+### What I Do
+- 🚀 **Full Stack Development** - Architecting and building complete web applications using modern React and Node.js
+- 💼 **Business Solutions** - Creating comprehensive management systems that streamline operations and improve efficiency
+- 🧩 **Algorithm Implementation** - Solving complex computational problems and implementing efficient algorithms
+- 🎮 **Interactive Applications** - Developing engaging, user-friendly interfaces and interactive tools
+- 💰 **FinTech Development** - Building cryptocurrency trading platforms with real-time data processing
+- 🏫 **EdTech Solutions** - Creating educational management systems and learning tools
 
-<br clear="right"/>
-
-```typescript
+### My Development Philosophy
+```javascript
 const harshitSaini = {
-  name        : "Harshit Saini",
-  role        : "Full Stack Developer",
-  education   : "BCA Graduate",
-  location    : "India 🇮🇳",
-
-  techStack: {
-    frontend  : ["React", "TypeScript", "JavaScript", "Vite", "HTML5", "CSS3"],
-    backend   : ["Node.js", "Express.js", "REST APIs", "WebSockets"],
-    databases : ["MongoDB", "MySQL"],
-    languages : ["TypeScript", "JavaScript", "Java", "C++", "C"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman", "npm"],
-  },
-
-  currentlyBuilding: [
-    "🏢 Incentum — Enterprise Business Management Platform",
-    "📈 Crypto Trading App — Real-time Market Data & Analytics",
-    "🎓 Admission Management System — EdTech Platform",
-  ],
-
-  achievements: [
-    "🧩 Rubik's Cube Solver — Complex Algorithm Implementation",
-    "💹 Real-time Trading Platform with Live WebSocket Data",
-    "🏫 End-to-end Educational Management System",
-    "⌨️  TypingHub — Full Interactive Typing Practice App",
-  ],
-
-  currentlyLearning : ["Advanced React Patterns", "System Design", "WebSockets"],
-  hobbies           : ["Algorithmic Challenges", "Strategy Games", "Lo-fi Music", "Tech Reading"],
-  philosophy        : "Clean code, real impact. Ship fast, scale smart.",
-
-  openTo: {
-    fullTime  : true,
-    freelance : true,
-    openSource: true,
-    mentorship: true,
-  },
+    name: "Harshit Saini",
+    role: "Full Stack Developer",
+    specialization: "JavaScript/TypeScript Ecosystem",
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++"],
+    expertise: {
+        frontend: ["React", "Vite", "Modern CSS", "Responsive Design"],
+        backend: ["Node.js", "Express", "API Development", "Database Design"],
+        specialties: ["Algorithm Implementation", "Real-time Applications", "Business Logic"]
+    },
+    currentProjects: [
+        "Incentum - Comprehensive Business Management Platform",
+        "Advanced Crypto Trading Application with Live Data", 
+        "Educational Admission Management System",
+        "Modern Portfolio Website with Interactive Features"
+    ],
+    achievements: [
+        "Rubik's Cube Solver Algorithm Implementation",
+        "Multi-domain Project Portfolio",
+        "Real-time Trading Platform Development",
+        "Complex Business Logic Implementation"
+    ],
+    philosophy: "Code should be clean, efficient, and solve real problems",
+    approach: "User-first design with performance optimization"
 };
 ```
 
+### Core Strengths & Experience
+- 💼 **Enterprise Applications** - Built scalable business management platforms handling complex workflows
+- 💰 **Financial Technology** - Developed cryptocurrency trading applications with real-time market data integration
+- 🎯 **Algorithm Design** - Implemented complex problem-solving algorithms including geometric puzzle solvers
+- 🌐 **Modern Web Development** - Created responsive, performant applications using cutting-edge technologies
+- 🔧 **System Architecture** - Designed and implemented full-stack solutions from database to user interface
+- 📊 **Data Management** - Experience with both SQL and NoSQL databases for different application needs.
+
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💻 Technical Skills
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,vite&theme=light&perline=6" />
 </p>
 
-> Building modern, responsive, and performant UIs with **React**, **TypeScript**, and **Vite** — component-driven architecture with clean state management and reusable design systems.
-
----
+Building modern, responsive web applications with **React**, **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, and **Vite** for optimal performance and user experience.
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light&perline=3" />
 </p>
 
-> Designing and building scalable REST APIs and server-side applications using **Node.js**, **Express.js**, and **Java** — from auth systems to real-time WebSocket servers and complex business logic engines.
+Developing robust server-side applications using **Node.js**, **Express.js**, and **Java** to create scalable APIs and business logic.
 
----
-
-### 🗄️ Databases & Storage
+### 🗄️ Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light&perline=2" />
 </p>
 
-> Managing data efficiently with **MongoDB** for flexible NoSQL solutions and **MySQL** for structured relational databases — schema design, indexing, and query optimization.
+Managing data efficiently with **MongoDB** for NoSQL solutions and **MySQL** for relational database requirements.
 
----
-
-### 🛠️ Developer Tools & Workflow
+### 🛠️ Development Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=light&perline=5" />
 </p>
 
-> Streamlined development workflow using **Git** for version control, **GitHub** for collaboration, **VS Code** as primary IDE, **Postman** for API testing, and **npm** for package management.
-
----
+Streamlined development process using **Git**, **GitHub**, **VS Code**, **npm**, and **Postman** for version control, collaboration, and API testing.
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=light&perline=5" />
 </p>
 
-> Primary: **TypeScript** & **JavaScript** for web. Secondary: **Java** for enterprise logic, **C/C++** for systems programming and algorithms.
+Proficient in **JavaScript**, **TypeScript** for web development, **Java** for enterprise applications, and **C/C++** for system programming and algorithms.
 
----
-
-### 🚀 Specialized Expertise
+### 🚀 Specialized Skills
+- **Algorithm Design** - Complex problem solving (Rubik's Cube Solver)
+- **Real-time Applications** - Cryptocurrency trading platforms
+- **Business Solutions** - Management systems and enterprise applications
+- **Modern Tooling** - Vite, React ecosystem, modern JavaScript
 
 <div align="center">
 
-| Skill Area | Details |
-|------------|---------|
-| 🧩 **Algorithm Design** | Rubik's Cube Solver, optimization algorithms, computational problem-solving |
-| 💹 **Real-time Systems** | WebSocket integration, live market data feeds, event-driven architecture |
-| 🏢 **Enterprise Applications** | Multi-module business platforms, workflow automation, role-based access |
-| 🎓 **EdTech Solutions** | Admission management, student portals, educational workflow systems |
-| 📱 **Responsive Design** | Mobile-first, cross-browser compatible, accessible UI interfaces |
-| 🔧 **System Architecture** | Full-stack design from database schema to UI — complete product ownership |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&theme=default&hide_border=true&title_color=667eea&text_color=333&bg_color=f8f9fa"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=333&bg_color=f8f9fa"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=default&hide_border=true&background=f8f9fa&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333&sideLabels=333&currStreakNum=667eea&sideNums=764ba2"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=00d4ff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area=true&hide_border=true&area_color=0f3460"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=f8f9fa&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshitsaini01&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshitsaini01&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🟢 Active Projects
-
-<div align="center">
-
-| 🗂️ Project | 📋 Description | 🛠️ Tech Stack | ⭐ Status |
-|------------|---------------|--------------|----------|
-| [**🏢 Incentum**](https://github.com/harshitsaini01/incentum_main) | Comprehensive business management platform — multi-module, complex workflows, role-based access control | JavaScript, Node.js, Express, MongoDB | 🟢 Active |
-| [**📈 Crypto Trading**](https://github.com/harshitsaini01/crypto-trading) | Real-time cryptocurrency trading application with live market data, charts, and trading analytics | JavaScript, WebSockets, REST APIs | 🟢 Active |
-| [**🎓 Admission Management**](https://github.com/harshitsaini01/admission-management) | End-to-end educational institution admission management system with student tracking and reporting | TypeScript, Node.js, MySQL | 🟢 Active |
-
-</div>
-
-### ✅ Completed Projects
+### 🚀 Current Active Projects
 
 <div align="center">
 
-| 🗂️ Project | 📋 Description | 🛠️ Tech Stack | ⭐ Status |
-|------------|---------------|--------------|----------|
-| [**🧩 Rubik's Cube Solver**](https://github.com/harshitsaini01/rubiks-cube-solver) | Algorithmic solver implementing efficient cube-solving logic with 3D visual representation | TypeScript | ✅ Complete |
-| [**🌐 Portfolio Website**](https://github.com/harshitsaini01/Portfolio) | Personal developer portfolio with modern design, animations, and interactive project showcases | React, Vite, CSS3 | ✅ Complete |
-| [**⌨️ TypingHub**](https://github.com/harshitsaini01/Typinghub) | Interactive typing speed & accuracy practice application with real-time WPM and accuracy tracking | HTML, CSS, JavaScript | ✅ Complete |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|---------|
+| **[Incentum Main](https://github.com/harshitsaini01/incentum_main)** | Business management platform | JavaScript, Node.js | 🟢 Active |
+| **[Crypto Trading](https://github.com/harshitsaini01/crypto-trading)** | Cryptocurrency trading application | JavaScript, APIs | 🟢 Active |
+| **[Admission Management](https://github.com/harshitsaini01/admission-management)** | Educational institution management | TypeScript | 🟢 Active |
+| **[Portfolio Website](https://github.com/harshitsaini01/Portfolio)** | Personal portfolio with React | React, Vite | ✅ Complete |
+| **[Rubik's Cube Solver](https://github.com/harshitsaini01/rubiks-cube-solver)** | Algorithm implementation | TypeScript | ✅ Complete |
+| **[TypingHub](https://github.com/harshitsaini01/Typinghub)** | Typing practice application | HTML, CSS, JS | ✅ Complete |
 
 </div>
+
+### 🎯 What I'm Currently Building
+- 💼 **Business Solutions** - Expanding the Incentum platform with new features
+- 💰 **FinTech Applications** - Enhancing crypto trading tools and analytics
+- 🏫 **Education Tech** - Improving admission management workflows
+- 🧩 **Algorithm Projects** - Exploring more complex problem-solving challenges
+
+### 🌱 Learning & Growth
+- 🔧 **Advanced React Patterns** - Hooks, Context, and state management
+- 📊 **Real-time Data** - WebSockets and live trading data integration
+- 🎨 **Modern UI/UX** - Creating intuitive user experiences
+- 🚀 **Performance Optimization** - Making applications faster and more efficient
 
 ---
 
-## 🎯 Currently Focused On
+## Beyond Code
 
-```text
-🔧  Incentum Platform      ████████████████░░░░  80% — New modules & performance upgrades
-📈  Crypto Trading App     ██████████████░░░░░░  70% — Real-time analytics & data pipelines
-🎓  Admission System       ████████████░░░░░░░░  60% — Improved workflows & reporting
-⚛️  Advanced React         ████████░░░░░░░░░░░░  40% — Hooks, Context, state patterns
-🏗️  System Design          ██████░░░░░░░░░░░░░░  30% — Scalability & architecture patterns
-```
+As a **BCA graduate** and passionate developer, I believe in continuous growth:
 
----
-
-## 🌱 Learning Roadmap 2025
-
-<div align="center">
-
-| Quarter | Focus Area | Goal |
-|---------|-----------|------|
-| **Q1 2025** | Advanced TypeScript & Design Patterns | Master generics, decorators, utility types |
-| **Q2 2025** | System Design & Architecture | Microservices, caching, load balancing |
-| **Q3 2025** | Cloud & DevOps Basics | AWS, Docker, CI/CD pipelines |
-| **Q4 2025** | Open Source Contributions | Active contributions to major JS/TS projects |
-
-</div>
+- 🎓 **Education** - Bachelor's in Computer Applications, always learning new concepts.
+- 🧩 **Problem Solving** - Love tackling algorithmic challenges like Rubik's cube solutions
+- 🎮 **Gaming** - Strategy games that enhance logical thinking
+- 🎵 **Music** - Lo-fi beats while coding for better focus
+- 📚 **Tech Reading** - Staying updated with JavaScript/React ecosystem
+- ☕ **Coffee** - Essential fuel for late-night coding sessions
 
 ---
 
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> *"Code is read more often than it is written. Write for the next developer, not just for the machine."*
-
-</div>
-
-<div align="center">
-
-| 💭 Principle | 🎯 How I Apply It |
-|-------------|-----------------|
-| **Clean Code First** | Readable, self-documenting code that future-me will thank |
-| **User-Centric Design** | Every feature decision starts with "how does this help the user?" |
-| **Performance Matters** | Optimized queries, lazy loading, and efficient algorithms from day one |
-| **Ship & Iterate** | Working software > perfect software. Improve continuously with feedback |
-| **Learn in Public** | Document, share, and contribute — grow with the community |
-
-</div>
-
----
-
-## 📬 Let's Connect & Collaborate
+## Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/harshitsaini01">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://twitter.com/harshitsaini01">
-  <img src="https://img.shields.io/badge/Twitter-%40harshitsaini01-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-&nbsp;
 <a href="mailto:harshit@example.com">
-  <img src="https://img.shields.io/badge/Gmail-harshit%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
 <a href="https://github.com/harshitsaini01">
-  <img src="https://img.shields.io/badge/GitHub-harshitsaini01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or simply having a conversation about technology. Feel free to reach out.
+
+---
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+
 
 <br/><br/>
 
-**💼 Available for:** Full-time roles &nbsp;|&nbsp; Freelance projects &nbsp;|&nbsp; Open source collaboration &nbsp;|&nbsp; Technical mentorship
-
-<br/>
-
-> *Always open to discussing new opportunities, collaborating on interesting projects, or simply talking tech. Don't hesitate to reach out!*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ If you find my projects useful, consider giving them a star — it motivates me to keep building! ⭐**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=160&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=00d4ff&animation=fadeIn&fontAlignY=65"/>
+**Thanks for visiting! Let's build something amazing together.** 
 
 </div>
