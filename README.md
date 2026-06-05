@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/harshitsaini01?style=social" alt="GitHub Followers"/>
+ 
 </p>
 
 
@@ -37,12 +37,17 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=light&perline=3" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=java,python,go,php,cs&theme=light&perline=5" alt="Backend languages"/>
+</p>
+
+### Frameworks & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi,dotnet,graphql,prisma&theme=light&perline=9" alt="Backend frameworks and APIs"/>
 </p>
 
 ### Mobile & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle&theme=light&perline=4" alt="Mobile and app development skills"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode,java,gradle&theme=light&perline=8" alt="Mobile and app development skills"/>
 </p>
 
 ### Databases & Messaging
@@ -68,9 +73,7 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,bash&theme=light&perline=6" alt="Tools"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=667eea&text_color=333&bg_color=f8f9fa&cache_seconds=86400" alt="Top Languages"/>
-</div>
+
 
 ---
 
