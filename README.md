@@ -69,7 +69,7 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&theme=default&hide_border=true&title_color=667eea&text_color=333&bg_color=f8f9fa" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=667eea&text_color=333&bg_color=f8f9fa&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 ---
