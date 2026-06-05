@@ -1,15 +1,21 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Saini&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+<!-- Header Banner -->
+# Harshit Saini
+
+<!-- Tagline -->
+<p>
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; 200+ Websites Delivered &nbsp;·&nbsp; Cloud | DevOps | System Design
+</p>
 
 <!-- Profile Metrics -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/harshitsaini01?style=social" alt="GitHub Stars"/>
- 
+  <img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/harshitsaini01?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshitsaini01?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/harshitsaini01?label=Stars&style=for-the-badge&color=667eea" alt="GitHub Stars"/>
 </p>
-
 
 </div>
 
@@ -47,7 +53,7 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 
 ### Mobile & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode,java,gradle&theme=light&perline=8" alt="Mobile and app development skills"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,apple,java,gradle&theme=light&perline=8" alt="Mobile and app development skills"/>
 </p>
 
 ### Databases & Messaging
@@ -70,7 +76,23 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,bash&theme=light&perline=6" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,bash,powershell&theme=light&perline=7" alt="Tools"/>
+</p>
+
+### Data Science & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=r,anaconda&theme=light&perline=2" alt="Data science skills"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+### Collaboration & Project Management
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
 
@@ -81,12 +103,11 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=333&bg_color=f8f9fa" alt="GitHub Stats"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=default&hide_border=true&background=f8f9fa&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333&sideLabels=333&currStreakNum=667eea&sideNums=764ba2" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=f8f9fa&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshitsaini01&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
 
 </div>
 
@@ -117,8 +138,7 @@ Beyond coding, I focus on writing maintainable software, designing scalable arch
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
-<b>Thanks for visiting — let's build something amazing together!</b>
+<b>Thanks for visiting, let's build something amazing together!</b>
 
 </div>
