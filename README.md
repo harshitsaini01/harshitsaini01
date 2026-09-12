@@ -8,10 +8,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=harshitsaini01&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/harshitsaini01?tab=followers">
-    <img src="https://img.shields.io/github/followers/harshitsaini01?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/harshitsaini01?label=Stars&style=for-the-badge&color=667eea" alt="GitHub Stars" />
 </p>
 
 <p>
@@ -148,16 +144,51 @@ I build, deploy, and scale modern applications across the full software lifecycl
 
 ---
 
+## Selected Repositories
+
+| Repository | Focus | Primary language |
+| --- | --- | --- |
+| [admission-management](https://github.com/harshitsaini01/admission-management) | Admission management system | TypeScript |
+| [rubiks-cube-solver](https://github.com/harshitsaini01/rubiks-cube-solver) | Rubik's cube solver | TypeScript |
+| [crypto-trading-simulator](https://github.com/harshitsaini01/crypto-trading-simulator) | Crypto trading simulator | JavaScript |
+| [HR-Dashboard](https://github.com/harshitsaini01/HR-Dashboard) | HR analytics dashboard | JavaScript |
+| [web_gaming_platform](https://github.com/harshitsaini01/web_gaming_platform) | Browser gaming platform | Web |
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=harshitsaini01&show_icons=true&hide_border=true&theme=default&title_color=667eea&icon_color=764ba2&text_color=333333&bg_color=f8f9fa" alt="Harshit's GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaini01&layout=compact&hide_border=true&title_color=667eea&text_color=333333&bg_color=f8f9fa" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/top-langs-dark.svg" />
+  <img height="200" src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/top-langs.svg" alt="Most used languages" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsaini01&theme=default&hide_border=true&background=f8f9fa&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333333&sideLabels=333333&currStreakNum=667eea&sideNums=764ba2" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/activity-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/activity-graph.svg" alt="Contribution activity" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsaini01&bg_color=f8f9fa&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" alt="Activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=harshitsaini01&theme=dark&hide_border=true&background=0d1117&stroke=8ea2ff&ring=b08cff&fire=b08cff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8ea2ff&sideNums=b08cff&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=harshitsaini01&hide_border=true&background=f8f9fa&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333333&sideLabels=333333&currStreakNum=667eea&sideNums=764ba2&dates=6b7280" alt="GitHub streak" />
+</picture>
+
+<sub>Stats, languages and activity are rendered inside this repository by a daily GitHub Action, so they do not depend on any third-party service staying online.</sub>
+
+</div>
+
+---
+
+## Contribution Graph in 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
+</picture>
 
 </div>
 
