@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generates the README cards as SVG files in output/.
+ * Generates the README contribution activity chart as SVG files in output/.
  * Runs in GitHub Actions with the built-in GITHUB_TOKEN, so the README never
  * depends on a third-party rendering service that can go down.
  *
@@ -23,7 +23,6 @@ const THEMES = {
     bg: '#f8f9fa',
     border: '#e3e6ea',
     title: '#667eea',
-    text: '#333333',
     muted: '#6b7280',
     accent: '#764ba2',
     grid: '#e3e6ea',
@@ -33,7 +32,6 @@ const THEMES = {
     bg: '#0d1117',
     border: '#27303d',
     title: '#8ea2ff',
-    text: '#c9d1d9',
     muted: '#8b949e',
     accent: '#b08cff',
     grid: '#21262d',
@@ -63,7 +61,7 @@ async function graphql(query, variables = {}) {
 }
 
 const PROFILE_QUERY = `
-query($login: String!, $after: String) {
+query($login: String!) {
   user(login: $login) {
     name
     login
@@ -72,43 +70,14 @@ query($login: String!, $after: String) {
         weeks { contributionDays { date contributionCount } }
       }
     }
-    repositories(first: 100, after: $after, ownerAffiliations: OWNER, isFork: false) {
-      pageInfo { hasNextPage endCursor }
-      nodes {
-        languages(first: 12, orderBy: {field: SIZE, direction: DESC}) {
-          edges { size node { name color } }
-        }
-      }
-    }
   }
 }`;
 
 async function fetchProfile() {
-  let after = null;
-  let user = null;
-  const repos = [];
-  do {
-    const data = await graphql(PROFILE_QUERY, { login: USER, after });
-    user = data.user;
-    repos.push(...user.repositories.nodes);
-    after = user.repositories.pageInfo.hasNextPage ? user.repositories.pageInfo.endCursor : null;
-  } while (after);
-
-  const langTotals = new Map();
-  for (const repo of repos) {
-    for (const edge of repo.languages.edges) {
-      const entry = langTotals.get(edge.node.name) || { size: 0, color: edge.node.color || '#8b949e' };
-      entry.size += edge.size;
-      langTotals.set(edge.node.name, entry);
-    }
-  }
-  const languages = [...langTotals.entries()]
-    .map(([name, v]) => ({ name, size: v.size, color: v.color }))
-    .sort((a, b) => b.size - a.size);
-
+  const data = await graphql(PROFILE_QUERY, { login: USER });
+  const user = data.user;
   const days = user.contributionsCollection.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
-
-  return { name: user.name || user.login, login: user.login, languages, days };
+  return { name: user.name || user.login, login: user.login, days };
 }
 
 function mockProfile() {
@@ -116,19 +85,7 @@ function mockProfile() {
     date: new Date(Date.now() - (370 - i) * 86400000).toISOString().slice(0, 10),
     contributionCount: Math.max(0, Math.round(8 + 7 * Math.sin(i / 9) + (i % 11))),
   }));
-  return {
-    name: 'Harshit Saini',
-    login: USER,
-    languages: [
-      { name: 'TypeScript', size: 520000, color: '#3178c6' },
-      { name: 'JavaScript', size: 410000, color: '#f1e05a' },
-      { name: 'CSS', size: 120000, color: '#563d7c' },
-      { name: 'HTML', size: 90000, color: '#e34c26' },
-      { name: 'Python', size: 40000, color: '#3572A5' },
-      { name: 'Dockerfile', size: 8000, color: '#384d54' },
-    ],
-    days,
-  };
+  return { name: 'Harshit Saini', login: USER, days };
 }
 
 /* ---------------------------------------------------------------- rendering */
@@ -139,8 +96,6 @@ function frame({ width, height, theme, title, body }) {
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${esc(title)}">
   <style>
     .card-title { font: 600 17px ${FONT}; fill: ${theme.title}; }
-    .label { font: 400 13px ${FONT}; fill: ${theme.text}; }
-    .value { font: 600 13px ${FONT}; fill: ${theme.accent}; }
     .muted { font: 400 11px ${FONT}; fill: ${theme.muted}; }
   </style>
   <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="10" fill="${theme.bg}" stroke="${theme.border}" />
@@ -148,50 +103,6 @@ function frame({ width, height, theme, title, body }) {
 ${body}
 </svg>
 `;
-}
-
-function langCard(p, theme) {
-  const width = 340;
-  const height = 200;
-  const top = p.languages.slice(0, 6);
-  const total = top.reduce((s, l) => s + l.size, 0) || 1;
-
-  const barX = 24;
-  const barY = 52;
-  const barW = width - 48;
-  let cursor = barX;
-  const bar = top
-    .map((l, i) => {
-      const w = Math.max(3, (l.size / total) * barW);
-      const x = cursor;
-      cursor += w;
-      const rx = i === 0 || i === top.length - 1 ? 5 : 0;
-      return `  <rect x="${x.toFixed(1)}" y="${barY}" width="${w.toFixed(1)}" height="11" rx="${rx}" fill="${l.color}" />`;
-    })
-    .join('\n');
-
-  const legend = top
-    .map((l, i) => {
-      const col = i % 2;
-      const row = Math.floor(i / 2);
-      const x = 24 + col * 150;
-      const y = 92 + row * 26;
-      const pct = ((l.size / total) * 100).toFixed(1);
-      return `  <circle cx="${x + 5}" cy="${y - 4}" r="5" fill="${l.color}" />
-  <text x="${x + 18}" y="${y}" class="label">${esc(l.name)}</text>
-  <text x="${x + 138}" y="${y}" class="value" text-anchor="end">${pct}%</text>`;
-    })
-    .join('\n');
-
-  const stamp = `  <text x="24" y="${height - 16}" class="muted">By bytes of code across public repositories</text>`;
-
-  return frame({
-    width,
-    height,
-    theme,
-    title: 'Most Used Languages',
-    body: bar + '\n' + legend + '\n' + stamp,
-  });
 }
 
 function activityCard(p, theme) {
@@ -260,15 +171,10 @@ const profile = MOCK ? mockProfile() : await fetchProfile();
 await mkdir(OUT_DIR, { recursive: true });
 const written = [];
 for (const theme of Object.values(THEMES)) {
-  const files = [
-    ['top-langs' + theme.suffix + '.svg', langCard(profile, theme)],
-    ['activity-graph' + theme.suffix + '.svg', activityCard(profile, theme)],
-  ];
-  for (const [name, svg] of files) {
-    await writeFile(resolve(OUT_DIR, name), svg, 'utf8');
-    written.push(name);
-  }
+  const name = 'activity-graph' + theme.suffix + '.svg';
+  await writeFile(resolve(OUT_DIR, name), activityCard(profile, theme), 'utf8');
+  written.push(name);
 }
 
-console.log('Generated ' + written.length + ' cards for ' + profile.login + ':');
+console.log('Generated ' + written.length + ' charts for ' + profile.login + ':');
 for (const name of written) console.log('  output/' + name);

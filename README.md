@@ -161,11 +161,6 @@ I build, deploy, and scale modern applications across the full software lifecycl
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/top-langs-dark.svg" />
-  <img height="200" src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/top-langs.svg" alt="Most used languages" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/activity-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/output/activity-graph.svg" alt="Contribution activity" />
 </picture>
@@ -175,20 +170,7 @@ I build, deploy, and scale modern applications across the full software lifecycl
   <img src="https://streak-stats.demolab.com/?user=harshitsaini01&hide_border=true&background=f8f9fa&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333333&sideLabels=333333&currStreakNum=667eea&sideNums=764ba2&dates=6b7280" alt="GitHub streak" />
 </picture>
 
-<sub>Stats, languages and activity are rendered inside this repository by a daily GitHub Action, so they do not depend on any third-party service staying online.</sub>
-
-</div>
-
----
-
-## Contribution Graph in 3D
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/profile-3d-contrib/profile-night-view.svg" />
-  <img src="https://raw.githubusercontent.com/harshitsaini01/harshitsaini01/master/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
-</picture>
+<sub>The activity chart is rendered inside this repository by a daily GitHub Action, so it does not depend on any third-party service staying online.</sub>
 
 </div>
 
